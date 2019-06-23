@@ -9,6 +9,7 @@ red
 orange
 brown
 yellow
+black
 unicorn
 This are the colors of the Rainbow and the unicorn
 pony

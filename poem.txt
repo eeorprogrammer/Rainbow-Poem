@@ -7,5 +7,5 @@ purple
 red
 orange
 brown
-
+yellow
 This are the colors of the Rainbow

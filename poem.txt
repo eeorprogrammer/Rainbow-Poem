@@ -1,4 +1,4 @@
-this is my poem and a way to learn how to use Github
+this is my poem and a way to learn how to use Github and the pony
 
 blue
 green
@@ -11,3 +11,4 @@ brown
 yellow
 unicorn
 This are the colors of the Rainbow and the unicorn
+pony

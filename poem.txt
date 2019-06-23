@@ -1,4 +1,4 @@
-this is my poem
+this is my poem and a way to learn how to use Github
 
 blue
 green
@@ -8,4 +8,5 @@ red
 orange
 brown
 yellow
-This are the colors of the Rainbow
+unicorn
+This are the colors of the Rainbow and the unicorn

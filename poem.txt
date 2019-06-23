@@ -6,6 +6,6 @@ pink
 purple
 red
 orange
-
+brown
 
 This are the colors of the Rainbow
